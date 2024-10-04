@@ -1,4 +1,4 @@
-![glow](https://github.com/user-attachments/assets/58dd91bc-1b1f-4245-a954-7136417301fc)
+![glow](https://github.com/user-attachments/assets/44b0372a-d6b8-40c3-8fa7-c0c3b67e457a)
 
 #  @alerrandroFerreira
 Hi, I’m Alerrandro (Alejandro/Alex), a student passionate about innovating with software and learning through projects.
