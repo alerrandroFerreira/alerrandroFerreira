@@ -1,4 +1,4 @@
-[porfolioReadme.pdf](https://github.com/user-attachments/files/29506280/porfolioReadme.pdf)
+![Banner]("C:\Users\alefe\Downloads\porfolioReadme.pdf")
 
 #  @alerrandroFerreira
 Hi, I’m Alerrandro (Alejandro/Alex), a student passionate about innovating with software and learning through projects.
